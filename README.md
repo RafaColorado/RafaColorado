@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RafaColorado
-- 👀 I’m interested in Azure and AI
-- 🌱 I’m currently learning PowerShell Azure
+- 👀 I’m interested in Containers and AI
 - 💞️ I’m looking to collaborate on an AI project that help me to learn
 - 📫 How to reach me coloradoraf@gmail.com
 
